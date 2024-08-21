@@ -1,0 +1,7 @@
+.warna{
+    background-color: var (--black_900);
+    width: 100%
+    display: grid;
+    gap: 87px; 
+    grid-template-columns: repeat 
+}
